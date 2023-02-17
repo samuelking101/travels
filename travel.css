@@ -1,0 +1,37 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    margin: 20px;
+    
+    }
+main{
+    display: flex;
+}
+form{
+    border: 1px solid;
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    margin-top: 50px;
+    margin: 20px auto;
+    }
+    body{
+        background-color: lightgray;
+    }
+    h5{
+        margin: 20px;
+        color: #df6951;
+    }
+    h1{
+        margin: 20px;
+        color: #181e4b;
+    }
+    p{
+        margin: 20px;
+        color: #5e6282;
+    }
+    button{
+        background-color: #f1a501;
+    }
